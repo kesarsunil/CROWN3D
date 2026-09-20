@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/crown/CROWN_3D_Chess.html"
+    }
+  ]
+}
